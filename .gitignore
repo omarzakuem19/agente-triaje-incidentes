@@ -1,0 +1,12 @@
+# Entornos virtuales
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Configuracion local
+.env
+
+# Salidas generadas
+*.log
+.streamlit/secrets.toml

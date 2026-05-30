@@ -1,0 +1,12 @@
+# Tema oscuro de la interfaz (estetica de consola de seguridad).
+[theme]
+base = "dark"
+primaryColor = "#E11D2A"
+backgroundColor = "#0A0C10"
+secondaryBackgroundColor = "#11151E"
+textColor = "#E6E9EF"
+linkColor = "#FF5A63"
+borderColor = "#222936"
+baseRadius = "0.4rem"
+font = "sans serif"
+codeFont = "monospace"
