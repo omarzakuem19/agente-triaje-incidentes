@@ -1,7 +1,7 @@
 # Dependencias del agente multimodal de triaje de incidentes.
 # Probado con Python 3.12 (entorno virtual creado con uv o venv).
 
-# Orquestacion (create_agent requiere LangChain 1.x)
+# Orquestacion
 langchain>=1.0.0
 langchain-core>=1.0.0
 langchain-ollama>=1.0.0
